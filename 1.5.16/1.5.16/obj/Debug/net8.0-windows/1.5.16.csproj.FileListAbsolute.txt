@@ -1,0 +1,16 @@
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\WarehouseManager.MainForm.resources
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\1.5.16.csproj.GenerateResource.cache
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\1.5.16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\1.5.16.AssemblyInfoInputs.cache
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\1.5.16.AssemblyInfo.cs
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\1.5.16.csproj.CoreCompileInputs.cache
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\bin\Debug\net8.0-windows\1.5.16.exe
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\bin\Debug\net8.0-windows\1.5.16.deps.json
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\bin\Debug\net8.0-windows\1.5.16.runtimeconfig.json
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\bin\Debug\net8.0-windows\1.5.16.dll
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\bin\Debug\net8.0-windows\1.5.16.pdb
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\1.5.16.dll
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\refint\1.5.16.dll
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\1.5.16.pdb
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\1.5.16.genruntimeconfig.cache
+C:\Users\Редис\Desktop\практика уч\1.5.16\1.5.16\obj\Debug\net8.0-windows\ref\1.5.16.dll
