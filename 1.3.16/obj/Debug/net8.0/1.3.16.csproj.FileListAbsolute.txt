@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\bin\Debug\net8.0\1.3.16.exe
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\bin\Debug\net8.0\1.3.16.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\bin\Debug\net8.0\1.3.16.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\bin\Debug\net8.0\1.3.16.dll
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\bin\Debug\net8.0\1.3.16.pdb
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\obj\Debug\net8.0\1.3.16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\obj\Debug\net8.0\1.3.16.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\obj\Debug\net8.0\1.3.16.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\obj\Debug\net8.0\1.3.16.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\obj\Debug\net8.0\1.3.16.dll
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\obj\Debug\net8.0\refint\1.3.16.dll
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\obj\Debug\net8.0\1.3.16.pdb
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\obj\Debug\net8.0\1.3.16.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\rediska\1.3.16\obj\Debug\net8.0\ref\1.3.16.dll
